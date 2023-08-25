@@ -1,5 +1,5 @@
 
-#ChatGPT Product Name AI Pro HD Privacy Policy
+**ChatGPT Product Name AI Pro HD Privacy Policy**
 
 "ChatGPT Product Name AI Pro HD" ("the App”) provides a suite of content tools to merchants who use Shopify to power their stores. These tools include generating product descriptions, product names, product benefits, SEO titles and descriptions, email marketing content, ads, reviews, support responses, and editing assistance. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
 
